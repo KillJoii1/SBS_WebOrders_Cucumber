@@ -12,5 +12,5 @@ NOTES:
     - Framework tested with ChromeDriver, HTMLUnitDriver (headless) and FirefoxDriver.
     - Implements heavy ExpectedCondition, ExplicitWaits and StaleElementException handling. Refer to src/test/java/browser/utils/Waiter for more.
 
-Test results running '@AllTest' with through maven command (screenshots enabled on failure only):
+Test results running '@AllTest' through maven command (screenshots enabled on failure only):
 ![img.png](img.png)
